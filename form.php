@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: souilmi Plugin
-Plugin URI: http://alecaddd.com/plugin
+Plugin URI: https://github.com/elmahdi-souilmi/C_plugin
 Description: This is my first attempt on writing a custom Plugin
 Version: 1.0.0
 Author: el mahdi souilmi
